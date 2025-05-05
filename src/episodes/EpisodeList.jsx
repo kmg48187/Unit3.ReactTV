@@ -1,4 +1,5 @@
 import "./episodes.css";
+import { tvShows } from "../shows/data";
 
 /** A list of episode names that allows the user to select an episode */
 export default function EpisodeList({
